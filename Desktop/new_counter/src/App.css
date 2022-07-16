@@ -1,0 +1,19 @@
+.App{
+  width: 500px;
+  margin: auto;
+}
+.App h1{
+  width: 400px;
+  text-align: center;
+}
+.block-counter{
+  width: 400px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.counter{
+  font-size: 30px;
+  font-weight: bold;
+}
